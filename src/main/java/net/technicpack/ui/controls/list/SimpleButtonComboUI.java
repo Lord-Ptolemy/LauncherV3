@@ -19,7 +19,6 @@
 
 package net.technicpack.ui.controls.list;
 
-import net.technicpack.ui.controls.list.SimpleScrollPopup;
 import net.technicpack.ui.controls.list.popupformatters.IPopupFormatter;
 import net.technicpack.ui.lang.ResourceLoader;
 

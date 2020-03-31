@@ -25,7 +25,6 @@ import net.technicpack.launchercore.install.InstallTasksQueue;
 import net.technicpack.launchercore.install.tasks.EnsureFileTask;
 import net.technicpack.launchercore.install.tasks.IInstallTask;
 import net.technicpack.launchercore.modpacks.ModpackModel;
-import net.technicpack.minecraftcore.install.tasks.CleanupModpackCacheTask;
 import net.technicpack.rest.io.Modpack;
 import net.technicpack.rest.io.Mod;
 import net.technicpack.launchercore.install.verifiers.IFileVerifier;

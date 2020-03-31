@@ -19,9 +19,6 @@
 
 package net.technicpack.minecraftcore.mojang.version.list;
 
-import net.technicpack.minecraftcore.mojang.version.list.LatestEntry;
-import net.technicpack.minecraftcore.mojang.version.list.VersionEntry;
-
 import java.util.List;
 
 public class VersionList {
